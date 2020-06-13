@@ -5,7 +5,7 @@
  * @github  https://github.com/lonekorean/highlight-within-textarea
  */
 
-const HighlightWithinTextarea = (function() {
+export default HighlightWithinTextarea = (function() {
 	let ID = 'hwt';
 
 	let HighlightWithinTextarea = function(el, config) {
